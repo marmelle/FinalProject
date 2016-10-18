@@ -1,0 +1,16 @@
+{
+  "surveys": [
+    {
+      "name": "Margarita",
+      "cellnum": "09462546939",
+      "best": "11:00 - 3:00",
+      "toppings": [
+        "Kid",
+        "Adult"
+      ],
+      "status": "Morning",
+      "pool": "Table with Umbrella",
+      "id": 1
+    }
+  ]
+}
